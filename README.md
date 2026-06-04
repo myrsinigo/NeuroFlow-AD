@@ -79,7 +79,13 @@ Pipeline outputs:
 
 * Processed AnnData object
 * UMAP visualization
+  
+<img width="1794" height="429" alt="umap_clusters_qc" src="https://github.com/user-attachments/assets/dbb113b6-cd75-40f7-ac64-2173a29629fa" />
+
 * QC reports
+  
+<img width="1508" height="490" alt="violin_qc" src="https://github.com/user-attachments/assets/57699894-5fda-42b9-8c97-9f093fac880e" />
+
 * Marker gene tables
 
 Example analysis identified:
